@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "type": "module",
   "dependencies": {
     "@cartesia/cartesia-js": "^1.2.2-alpha.0"
   },
